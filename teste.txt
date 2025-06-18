@@ -1,8 +1,8 @@
 int main() {
-    // This is a single-line comment
+    // Esse é um comentario de uma linha
     int x = 10;
-    /* This is a
-       multi-line comment */
+    /* Esse é o comentario de 
+            2 ou mais linhas */
     string message = "Hello, World!";
     if (x > 5) {
         return 0;
